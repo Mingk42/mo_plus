@@ -1,1 +1,1 @@
-add=lambda x,y:x+y
+add=lambda x,y:int(x)+ int(y)

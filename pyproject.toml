@@ -1,6 +1,6 @@
 [project]
 name = "mo_plus"
-version = "0.1.0"
+version = "0.1.1"
 description = "Default template for PDM package"
 authors = [
     {name = "Mingk42", email = "xoals123456t@gmail.com"},
@@ -13,3 +13,7 @@ license = {text = "MIT"}
 
 [tool.pdm]
 distribution = true
+
+
+[project.urls]
+Homepage = "https://github.com/Mingk42/mo_plus"
